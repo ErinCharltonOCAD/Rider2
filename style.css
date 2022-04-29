@@ -1,7 +1,6 @@
     .flex-container {
     
-        min-width: 1545px;
-        max-width: 1545px;
+        min-width:1100px;
        
 }
 #box1 {
@@ -13,6 +12,7 @@
     background: lightpink;
     font-weight: bold;
     position: absolute;
+    white-space: nowrap;
    
 }
 
